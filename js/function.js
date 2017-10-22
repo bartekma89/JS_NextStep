@@ -1,6 +1,6 @@
 var triangle1Area = getTriangleArea(10,6);
 var triangle2Area = getTriangleArea(12,7.2);
-var triangle3Area = getTriangleArea(10,-3);
+var triangle3Area = getTriangleArea(10,3);
 
 console.log(triangle1Area);
 console.log(triangle2Area);
